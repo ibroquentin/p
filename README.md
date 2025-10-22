@@ -1,2 +1,2 @@
-Dandy's World Toon Sorter
+phighter Sorter
 ===================

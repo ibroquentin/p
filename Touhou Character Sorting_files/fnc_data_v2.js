@@ -40,21 +40,21 @@ var ary_TitleData = [
 // "キャラクター名", "画像（空白の場合、キャラクター名が使用されます）"
 // [1,2,3,4,5,6,7,8,9,
 var ary_CharacterData = [
-[1, "Sword", [1,0,0,0], "m5.png"],
-[1, "Banhammer", [1,0,0,0], "Bobette.png"],
-[1, "Skateboard", [1,0,0,0], "Boxten.png"],
-[1, "Biograft", [1,0,0,0], "Bassie.png"],
-[1, "Katana", [1,0,0,0], "Brightney.png"],
-[1, "Rocket", [1,0,0,0], "Blot.png"],
-[1, "Slingshot", [1,0,0,0], "Coal.png"],
-[1, "Hyperlaser", [1,0,0,0], "Connie.png"],
-[1, "Shuriken", [1,0,0,0], "Cocoa.png"],
-[1, "Scythe", [1,0,0,0], "Cosmo.png"],
-[1, "Medkit", [1,0,0,0], "m2.png"],
-[1, "Boombox", [1,0,0,0], "Eggson.png"],
-[1, "Subspace", [1,0,0,0], "Finn.png"],
-[1, "Vine Staff", [1,0,0,0], "Flutter.png"],
-[1, "Coil", [1,0,0,0], "Flyte.png"]
+[1, "Sword", [1,0,0,0], "Sword.png"],
+[1, "Banhammer", [1,0,0,0], "Banhammer.png"],
+[1, "Skateboard", [1,0,0,0], "Skateboard.png"],
+[1, "Biograft", [1,0,0,0], "Biograft.png"],
+[1, "Katana", [1,0,0,0], "Katana.png"],
+[1, "Rocket", [1,0,0,0], "Rocket.png"],
+[1, "Slingshot", [1,0,0,0], "Slingshot.png"],
+[1, "Hyperlaser", [1,0,0,0], "Hyperlaser.png"],
+[1, "Shuriken", [1,0,0,0], "Shuriken.png"],
+[1, "Scythe", [1,0,0,0], "Scythe.png"],
+[1, "Medkit", [1,0,0,0], "Medkit.png"],
+[1, "Boombox", [1,0,0,0], "Boombox.png"],
+[1, "Subspace", [1,0,0,0], "Subspace.png"],
+[1, "Vine Staff", [1,0,0,0], "Vine Staff.png"],
+[1, "Coil", [1,0,0,0], "Coil.png"]
 
   
 ];

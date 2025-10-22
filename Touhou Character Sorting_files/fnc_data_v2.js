@@ -45,16 +45,16 @@ var ary_CharacterData = [
 [1, "Skateboard", [1,0,0,0], "Skateboard.png"],
 [1, "Biograft", [1,0,0,0], "Biograft.png"],
 [1, "Katana", [1,0,0,0], "Katana.png"],
-[1, "Rocket", [1,0,0,0], "Rocket.png"],
-[1, "Slingshot", [1,0,0,0], "Slingshot.png"],
+[1, "Rocket", [1,0,0,0], "Eww.png"],
+[1, "Slingshot", [1,0,0,0], "Me.png"],
 [1, "Hyperlaser", [1,0,0,0], "Hyperlaser.png"],
 [1, "Shuriken", [1,0,0,0], "Shuriken.png"],
 [1, "Scythe", [1,0,0,0], "Scythe.png"],
 [1, "Medkit", [1,0,0,0], "Medkit.png"],
 [1, "Boombox", [1,0,0,0], "Boombox.png"],
 [1, "Subspace", [1,0,0,0], "Subspace.png"],
-[1, "Vine Staff", [1,0,0,0], "Vine Staff.png"],
-[1, "Coil", [1,0,0,0], "Coil.png"]
+[1, "Vine Staff", [1,0,0,0], "VineStaff.png"],
+[1, "Coil", [1,0,0,0], "Cutiecake.png"]
 
   
 ];

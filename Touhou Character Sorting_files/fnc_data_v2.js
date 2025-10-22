@@ -28,9 +28,9 @@ var maxRows = 35;
 var int_Colspan = 3;
 var ary_TitleData = [
 "Phighters",
-"NPCs",
-"Swords",
-"Others"
+"NPCs TBA",
+"Swords TBA",
+"Others TBA"
 ];
 
 // * キャラクター情報（編集可能。最後の行に”,”を付けないようにしてください）
@@ -40,44 +40,21 @@ var ary_TitleData = [
 // "キャラクター名", "画像（空白の場合、キャラクター名が使用されます）"
 // [1,2,3,4,5,6,7,8,9,
 var ary_CharacterData = [
-[1, "Astro", [1,0,0,0], "m5.png"],
-[1, "Bobette", [1,0,0,0], "Bobette.png"],
-[1, "Boxten", [1,0,0,0], "Boxten.png"],
-[1, "Bassie", [1,0,0,0], "Bassie.png"],
-[1, "Brightney", [1,0,0,0], "Brightney.png"],
-[1, "Blot", [1,0,0,0], "Blot.png"],
-[1, "Coal", [1,0,0,0], "Coal.png"],
-[1, "Connie", [1,0,0,0], "Connie.png"],
-[1, "Cocoa", [1,0,0,0], "Cocoa.png"],
-[1, "Cosmo", [1,0,0,0], "Cosmo.png"],
-[1, "Dandy", [1,0,0,0], "m2.png"],
-[1, "Eggson", [1,0,0,0], "Eggson.png"],
-[1, "Finn", [1,0,0,0], "Finn.png"],
-[1, "Flutter", [1,0,0,0], "Flutter.png"],
-[1, "Flyte", [1,0,0,0], "Flyte.png"],
-[1, "Gigi", [1,0,0,0], "Gigi.png"],
-[1, "Ginger", [1,0,0,0], "Ginger.png"],
-[1, "Glisten", [1,0,0,0], "Glisten.png"],
-[1, "Goob", [1,0,0,0], "Goob.png"],
-[1, "Looey", [1,0,0,0], "Looey.png"],
-[1, "Pebble", [1,0,0,0], "m6.png"],
-[1, "Poppy", [1,0,0,0], "Poppy.png"],
-[1, "Razzle & Dazzle", [1,0,0,0], "Razzle & Dazzle.png"],
-[1, "Rodger", [1,0,0,0], "Rodger.png"],
-[1, "Rudie", [1,0,0,0], "Rudie.png"],
-[1, "Scraps", [1,0,0,0], "Scraps.png"],
-[1, "Shelly", [1,0,0,0], "m3.png"],
-[1, "Shrimpo", [1,0,0,0], "Shrimpo.png"],
-[1, "Sprout", [1,0,0,0], "m4.png"],
-[1, "Teagan", [1,0,0,0], "Teagan.png"],
-[1, "Tisha", [1,0,0,0], "Tisha.png"],
-[1, "Toodles", [1,0,0,0], "Toodles.png"],
-[1, "Vee", [1,0,0,0], "m1.png"],
-[1, "Yatta", [1,0,0,0], "Yatta.png"],
-[1, "Eclipse", [1,0,0,0], "Eclipse.png"],
-[1, "Gourdy", [1,0,0,0], "Gourdy.png"],
-[1, "Ribecca", [1,0,0,0], "Ribecca.png"],
-[1, "Soulvester", [1,0,0,0], "Soulvester.png"],
+[1, "Sword", [1,0,0,0], "m5.png"],
+[1, "Banhammer", [1,0,0,0], "Bobette.png"],
+[1, "Skateboard", [1,0,0,0], "Boxten.png"],
+[1, "Biograft", [1,0,0,0], "Bassie.png"],
+[1, "Katana", [1,0,0,0], "Brightney.png"],
+[1, "Rocket", [1,0,0,0], "Blot.png"],
+[1, "Slingshot", [1,0,0,0], "Coal.png"],
+[1, "Hyperlaser", [1,0,0,0], "Connie.png"],
+[1, "Shuriken", [1,0,0,0], "Cocoa.png"],
+[1, "Scythe", [1,0,0,0], "Cosmo.png"],
+[1, "Medkit", [1,0,0,0], "m2.png"],
+[1, "Boombox", [1,0,0,0], "Eggson.png"],
+[1, "Subspace", [1,0,0,0], "Finn.png"],
+[1, "Vine Staff", [1,0,0,0], "Flutter.png"],
+[1, "Coil", [1,0,0,0], "Flyte.png"]
 
   
 ];
